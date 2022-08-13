@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/InstaLinkGenerator/static/css/main.31d6cfe0.css",
-    "main.js": "/InstaLinkGenerator/static/js/main.2d1da481.js",
+    "main.js": "/InstaLinkGenerator/static/js/main.4b46dbc9.js",
     "static/js/787.28cb0dcd.chunk.js": "/InstaLinkGenerator/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/InstaLinkGenerator/index.html",
-    "main.2d1da481.js.map": "/InstaLinkGenerator/static/js/main.2d1da481.js.map",
+    "main.4b46dbc9.js.map": "/InstaLinkGenerator/static/js/main.4b46dbc9.js.map",
     "787.28cb0dcd.chunk.js.map": "/InstaLinkGenerator/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.2d1da481.js"
+    "static/js/main.4b46dbc9.js"
   ]
 }
